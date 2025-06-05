@@ -26,3 +26,8 @@ The model implements essential components of a Transformer decoder-based languag
 This project is licensed under the [GPL v3 License](LICENSE) - see the LICENSE file for details.
 
 **Note:** The tokenizer used in this project is based on GPT-2 and is licensed under the [MIT License](tokenizer/LICENSE). Please refer to the tokenizer/LICENSE file for the tokenizer’s license information.
+
+## Warning
+
+⚠️ This project is **NOT FREE**.
+Renaming, selling, or redistributing this source code in any form is strictly prohibited.
