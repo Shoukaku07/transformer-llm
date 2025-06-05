@@ -1,0 +1,6 @@
+model/
+
+__pycache__
+tokenizer.ipynb
+
+.venv
