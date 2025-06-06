@@ -57,7 +57,6 @@ scheduler = CosineAnnealingLR(optimizer, T_max=total_steps)
 
 ##########
 
-model.train()
 loop = tqdm(range(total_steps), leave=True)
 
 for step in loop:
